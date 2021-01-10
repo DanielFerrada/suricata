@@ -1,0 +1,44 @@
+body {
+font-family: 'Open Sans', sans-serif;
+
+}
+
+.bg-pink {
+background-color: #e83e8c;
+
+}
+
+.navbar-brand img {
+  width: 100%;
+  max-width: 132px;
+}
+
+.navbar-brand {
+width: 40%;
+}
+
+.text-color-h1 {
+color: #707070 !important;
+margin-top: 70px;
+margin-bottom: 77px;
+}
+
+.logo-footer img{
+  width: 100%;
+  max-width: 53px;
+
+}
+
+.icon-section {
+background-color: #17a2b8;
+}
+
+h2 {
+font-size: 40px;
+font-weight: 700;
+}
+
+h5 {
+font-weight: 700;
+color: #373A3C;
+}
